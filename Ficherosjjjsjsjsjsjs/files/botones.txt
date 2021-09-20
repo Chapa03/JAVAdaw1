@@ -1,0 +1,2 @@
+JButton btn00 = new JButton("");
+centroBotones.add(btn00);

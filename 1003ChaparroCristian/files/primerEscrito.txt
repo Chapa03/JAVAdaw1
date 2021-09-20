@@ -1,0 +1,96 @@
+POBLACIONES DE MADRID:
+
+ID:	PROVINCIA:	NOMBRE POBLACION:
+0	Guadalajara		Guadalajara
+0	Guadalajara		Azuqueca de Henares
+0	Madrid		Coslada
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Alcobendas
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Madrid
+0	Madrid		Alcobendas
+0	Madrid		San Sebastián de los Reyes
+0	Madrid		Majadahonda
+0	Madrid		Pozuelo de Alarcón
+0	Madrid		Pozuelo de Alarcón
+0	Madrid		Rozas de Madrid, Las
+0	Madrid		Rozas de Madrid, Las
+0	Madrid		Torrelodones
+0	Madrid		Escorial, El
+0	Madrid		Rozas de Madrid, Las
+0	Madrid		Galapagar
+0	Madrid		Escorial, El
+0	Madrid		Aranjuez
+0	Madrid		Pinto
+0	Madrid		Valdemoro
+0	Madrid		Ciempozuelos
+0	Madrid		Collado Villalba
+0	Madrid		Alpedrete
+0	Madrid		Galapagar
+0	Madrid		Alpedrete
+0	Madrid		Collado Mediano
+0	Madrid		Molinos, Los
+0	Madrid		Cercedilla
+0	Madrid		Cercedilla
+0	Madrid		Tres Cantos
+0	Madrid		Colmenar Viejo
+0	Madrid		Alcalá de Henares
+0	Madrid		Alcalá de Henares
+0	Madrid		Alcalá de Henares
+0	Madrid		San Fernando de Henares
+0	Madrid		Torrejón de Ardoz
+0	Madrid		Torrejón de Ardoz
+0	Madrid		Meco
+0	Madrid		Getafe
+0	Madrid		Getafe
+0	Madrid		Getafe
+0	Madrid		Getafe
+0	Madrid		Getafe
+0	Madrid		Leganés
+0	Madrid		Leganés
+0	Madrid		Leganés
+0	Madrid		Alcorcón
+0	Madrid		Alcorcón
+0	Madrid		Alcorcón
+0	Madrid		Móstoles
+0	Madrid		Móstoles
+0	Madrid		Fuenlabrada
+0	Madrid		Fuenlabrada
+0	Madrid		Humanes de Madrid
+0	Madrid		Parla
+0	Segovia		Real Sitio de San Ildefonso

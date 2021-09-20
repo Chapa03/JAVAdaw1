@@ -1,0 +1,263 @@
+;;;IANA;IACC
+1;Tirana Airport;Albania;TIA;LATI
+2;Algovia Airport Memmingen;Alemania;FMM;EDJA
+3;Berlín Brandeburgo Airport;Alemania;BER;EDDB
+4;Bremen Airport;Alemania;BRE;EDDW
+5;Colonia Bonn Airport;Alemania;CGN;EDDK
+6;Dortmund Airport;Alemania;DTM;EDLW
+7;Dresde Airport;Alemania;DRS;EDDC
+8;Dusseldorf Airport;Alemania;DUS;EDDL
+9;Frankfurt Airport;Alemania;FRA;EDDF
+10;Frankfurt-Hahn Airport;Alemania;HHN;EDFH
+11;Friedrichshafen Airport;Alemania;FDH;EDNY
+12;Hamburgo Airport;Alemania;HAM;EDDH
+13;Hanóver Airport;Alemania;HAJ;EDDV
+14;Karlsruhe Baden-Baden Airport;Alemania;FKB;EDSB
+15;Leipzig Halle Airport;Alemania;LEJ;EDDP
+16;Múnich Airport;Alemania;MUC;EDDM
+17;Münster Osnabrück Airport;Alemania;FMO;EDDG
+18;Núremberg Airport;Alemania;NUE;EDDN
+19;Paderborn Lippstadt Airport;Alemania;PAD;EDLP
+20;Stuttgart Airport;Alemania;STR;EDDS
+21;Weeze Airport;Alemania;NRN;EDLV
+22;Ereván Zvartnots Airport;Armenia;EVN;UDYZ
+23;Graz Airport;Austria;GRZ;LOWG
+24;Innsbruck Airport;Austria;INN;LOWI
+25;Klagenfurt Airport;Austria;KLU;LOWK
+26;Linz Airport;Austria;LNZ;LOWL
+27;Salzburgo Airport;Austria;SZG;LOWS
+28;Viena Airport;Austria;VIE;LOWW
+29;Bakú Airport;Azerbaiyán;GYD;UBBB
+30;Amberes Airport;Bélgica;ANR;EBAW
+31;Bruselas Airport;Bélgica;BRU;EBBR
+32;Charleroi Airport;Bélgica;CRL;EBCI
+33;Lieja Airport;Bélgica;LGG;EBLG
+34;Ostende Brujas Airport;Bélgica;OST;EBOS
+35;Minsk Airport;Bielorrusia;MSQ;UMMS
+36;Sarajevo Airport;Bosnia y Herzegovina;SJJ;LQSA
+37;Tuzla Airport;Bosnia y Herzegovina;TZL;LQTZ
+38;Burgas Airport;Bulgaria;BOJ;LBBG
+39;Sofía Airport;Bulgaria;SOF;LBSF
+40;Varna Airport;Bulgaria;VAR;LBWN
+41;Lárnaca Airport;Chipre;LCA;LCLK
+42;Pafos Airport;Chipre;PFO;LCPH
+43;Dubrovnik Airport;Croacia;DBV;LDDU
+44;Pula Airport;Croacia;PUY;LDPL
+45;Split Airport;Croacia;SPU;LDSP
+46;Zadar Airport;Croacia;ZAD;LDZD
+47;Zagreb Airport;Croacia;ZAG;LDZA
+48;Aalborg Airport;Dinamarca;AAL;EKYT
+49;Aarhus Airport;Dinamarca;AAR;EKAH
+50;Billund Airport;Dinamarca;BLL;EKBI
+51;Copenhague Airport;Dinamarca;CPH;EKCH
+52;Vágar Airport;Dinamarca;FAE;EKVG
+53;Bratislava Airport;Eslovaquia;BTS;LZIB
+54;Koice Airport;Eslovaquia;KSC;LZKZ
+55;Liubliana Airport;Eslovenia;LJU;LJLJ
+56;Alicante Airport;España;ALC;LEAL
+57;Almería Airport;España;LEI;LEAM
+58;Asturias Airport;España;OVD;LEAS
+59;Barcelona Airport;España;BCN;LEBL
+60;Bilbao Airport;España;BIO;LEBB
+61;Fuerteventura Airport;España;FUE;GCFV
+62;Girona Airport;España;GRO;LEGE
+63;Gran Canaria Airport;España;LPA;GCLP
+64;Granada-Jaén Airport;España;GRX;LEGR
+65;Ibiza Airport;España;IBZ;LEIB
+66;Jerez Airport;España;XRY;LEJR
+67;La Palma Airport;España;SPC;GCLA
+68;Lanzarote Airport;España;ACE;GCRR
+69;Madrid Barajas Airport;España;MAD;LEMD
+70;Málaga Airport;España;AGP;LEMG
+71;Menorca Airport;España;MAH;LEMH
+72;Palma de Mallorca Airport;España;PMI;LEPA
+73;Región de Murcia Airport;España;RMU;LEMI
+74;Reus Airport;España;REU;LERS
+75;Santander Airport;España;SDR;LEXJ
+76;Santiago de Compostela Airport;España;SCQ;LEST
+77;Sevilla Airport;España;SVQ;LEZL
+78;Tenerife Norte Airport;España;TFN;GCXO
+79;Tenerife Sur Airport;España;TFS;GCTS
+80;Valencia Airport;España;VLC;LEVC
+81;Zaragoza Airport;España;ZAZ;LEZG
+82;Tallin Airport;Estonia;TLL;EETN
+83;Helsinki Airport;Finlandia;HEL;EFHK
+84;Oulu Airport;Finlandia;OUL;EFOU
+85;Rovaniemi Airport;Finlandia;RVN;EFRO
+86;Tampere Airport;Finlandia;TMP;EFTP
+87;Turku Airport;Finlandia;TKU;EFTU
+88;Vaasa Airport;Finlandia;VAA;EFVA
+89;Ajaccio Airport;Francia;AJA;LFKJ
+90;Bastia Airport;Francia;BIA;LFKB
+91;Bergerac Airport;Francia;EGC;LFBE
+92;Biarritz Airport;Francia;BIQ;LFBZ
+93;Brest Bretaña Airport;Francia;BES;LFRB
+94;Burdeos Airport;Francia;BOD;LFBD
+95;Estrasburgo Airport;Francia;SXB;LFST
+96;Figari Sud Corse Airport;Francia;FSC;LFKF
+97;Lille Airport;Francia;LIL;LFQQ
+98;Lyon-Saint Exupéry Airport;Francia;LYS;LFLL
+99;Marsella Airport;Francia;MRS;LFML
+100;Montpellier Airport;Francia;MPL;LFMT
+101;Nantes Airport;Francia;NTE;LFRS
+102;Niza Airport;Francia;NCE;LFMN
+103;París Beauvais Airport;Francia;BVA;LFOB
+104;París Charles de Gaulle Airport;Francia;CDG;LFPG
+105;París Orly Airport;Francia;ORY;LFPO
+106;Rennes Bretaña Airport;Francia;RNS;LFRN
+107;Réunion Roland Garros Airport;Francia;RUN;FMEE
+108;Toulon-Hyères Airport;Francia;TLN;LFTH
+109;Toulouse Blagnac Airport;Francia;TLS;LFBO
+110;Kutaisi Airport;Georgia;KUT;UGKO
+111;Tiflis Airport;Georgia;TBS;UGTB
+112;Atenas Airport;Grecia;ATH;LGAV
+113;Corfú Airport;Grecia;CFU;LGKR
+114;Cos Airport;Grecia;KGS;LGKO
+115;Heraklion Airport;Grecia;HER;LGIR
+116;La Canea Airport;Grecia;CHQ;LGSA
+117;Mykonos Airport;Grecia;JMK;LGMK
+118;Rodas Airport;Grecia;RHO;LGRP
+119;Santorini Airport;Grecia;JTR;LGSR
+120;Tesalónica Airport;Grecia;SKG;LGTS
+121;Zante Airport;Grecia;ZTH;LGZA
+122;Budapest Airport;Hungría;BUD;LHBP
+123;Debrecen Airport;Hungría;DEB;LHDC
+124;Cork Airport;Irlanda;ORK;EICK
+125;Dublín Airport;Irlanda;DUB;EIDW
+126;Irlanda Oeste Airport Knock;Irlanda;NOC;EIKN
+127;Kerry Airport;Irlanda;KIR;EIKY
+128;Shannon Airport;Irlanda;SNN;EINN
+129;Keflavík Airport;Islandia;KEF;BIKF
+130;Alguer Airport;Italia;AHO;LIEA
+131;Ancona Airport;Italia;AOI;LIPY
+132;Bari Airport;Italia;BRI;LIBD
+133;Bérgamo Airport;Italia;BGY;LIME
+134;Bolonia Airport;Italia;BLQ;LIPE
+135;Brindisi Airport;Italia;BDS;LIBR
+136;Cagliari Airport;Italia;CAG;LIEE
+137;Catania Fontanarossa Airport;Italia;CTA;LICC
+138;Comiso Airport;Italia;CIY;LICB
+139;Florencia Airport;Italia;FLR;LIRQ
+140;Génova Airport;Italia;GOA;LIMJ
+141;Lamezia Terme Airport;Italia;SUF;LICA
+142;Milán Linate Airport;Italia;LIN;LIML
+143;Milán Malpensa Airport;Italia;MXP;LIMC
+144;Nápoles Airport;Italia;NAP;LIRN
+145;Olbia Costa Smeralda Airport;Italia;OLB;LIEO
+146;Palermo Airport;Italia;PMO;LICJ
+147;Perugia Airport;Italia;PEG;LIRZ
+148;Pescara Airport;Italia;PSR;LIBP
+149;Pisa Airport;Italia;PSA;LIRP
+150;Roma Ciampino Airport;Italia;CIA;LIRA
+151;Roma Fiumicino Airport;Italia;FCO;LIRF
+152;Trapani Airport;Italia;TPS;LICT
+153;Treviso Airport;Italia;TSF;LIPH
+154;Turín Airport;Italia;TRN;LIMF
+155;Venecia Airport;Italia;VCE;LIPZ
+156;Verona Airport;Italia;VRN;LIPX
+157;Almatý Airport;Kazajistán;ALA;UAAA
+158;Nursultan Nazarbayev Airport;Kazajistán;NQZ;UACC
+159;Pristina Airport;Kosovo;PRN;BKPR
+160;Riga Airport;Letonia;RIX;EVRA
+161;Kaunas Airport;Lituania;KUN;EYKA
+162;Vilnius Airport;Lituania;VNO;EYVI
+163;Luxemburgo Airport;Luxemburgo;LUX;ELLX
+164;Skopje Airport;Macedonia del Norte;SKP;LWSK
+165;Malta Airport;Malta;MLA;LMML
+166;Chisináu Airport;Moldavia;KIV;LUKK
+167;Podgorica Airport;Montenegro;TGD;LYPG
+168;Tivat Airport;Montenegro;TIV;LYTV
+169;Ålesund Airport;Noruega;AES;ENAL
+170;Bergen Airport;Noruega;BGO;ENBR
+171;Bodø Airport;Noruega;BOO;ENBO
+172;Haugesund Airport;Noruega;HAU;ENHD
+173;Kristiansand Airport;Noruega;KRS;ENCN
+174;Oslo Airport;Noruega;OSL;ENGM
+175;Sandefjord Airport Torp;Noruega;TRF;ENTO
+176;Stavanger Airport;Noruega;SVG;ENZV
+177;Tromsø Airport;Noruega;TOS;ENTC
+178;Trondheim Airport;Noruega;TRD;ENVA
+179;Ámsterdam Airport Schiphol;Países Bajos;AMS;EHAM
+180;Eindhoven Airport;Países Bajos;EIN;EHEH
+181;Groninga Airport Eelde;Países Bajos;GRQ;EHGG
+182;Maastricht Aachen Airport;Países Bajos;MST;EHBK
+183;Róterdam La Haya Airport;Países Bajos;RTM;EHRD
+184;Breslavia Airport;Polonia;WRO;EPWR
+185;Cracovia Airport;Polonia;KRK;EPKK
+186;Gdansk Airport;Polonia;GDN;EPGD
+187;Katowice Airport;Polonia;KTW;EPKT
+188;Poznan Airport;Polonia;POZ;EPPO
+189;Szczecin-Goleniów Airport;Polonia;SZZ;EPSC
+190;Varsovia Airport;Polonia;WAW;EPWA
+191;Varsovia Modlin Airport;Polonia;WMI;EPMO
+192;Faro Airport;Portugal;FAO;LPFR
+193;Lisboa Airport;Portugal;LIS;LPPT
+194;Madeira Airport;Portugal;FNC;LPMA
+195;Oporto Airport;Portugal;OPO;LPPR
+196;Ponta Delgada Airport;Portugal;PDL;LPPD
+197;Aberdeen Airport;Reino Unido;ABZ;EGPD
+198;Belfast City Airport;Reino Unido;BHD;EGAC
+199;Belfast International Airport;Reino Unido;BFS;EGAA
+200;Birmingham Airport;Reino Unido;BHX;EGBB
+201;Bristol Airport;Reino Unido;BRS;EGGD
+202;Cardiff Airport;Reino Unido;CWL;EGFF
+203;Doncaster Sheffield Airport;Reino Unido;DSA;EGCN
+204;East Midlands Airport;Reino Unido;EMA;EGNX
+205;Edimburgo Airport;Reino Unido;EDI;EGPH
+206;Exeter Airport;Reino Unido;EXT;EGTE
+207;Glasgow Airport;Reino Unido;GLA;EGPF
+208;Glasgow Prestwick Airport;Reino Unido;PIK;EGPK
+209;Humberside Airport;Reino Unido;HUY;EGNJ
+210;Jersey Airport;Reino Unido;JER;EGJJ
+211;Leeds Bradford Airport;Reino Unido;LBA;EGNM
+212;Liverpool Airport;Reino Unido;LPL;EGGP
+213;Londres City Airport;Reino Unido;LCY;EGLC
+214;Londres Gatwick Airport;Reino Unido;LGW;EGKK
+215;Londres Heathrow Airport;Reino Unido;LHR;EGLL
+216;Londres Luton Airport;Reino Unido;LTN;EGGW
+217;Londres Southend Airport;Reino Unido;SEN;EGMC
+218;Londres Stansted Airport;Reino Unido;STN;EGSS
+219;Mánchester Airport;Reino Unido;MAN;EGCC
+220;Newcastle Airport;Reino Unido;NCL;EGNT
+221;Southampton Airport;Reino Unido;SOU;EGHI
+222;Brno Airport;República Checa;BRQ;LKTB
+223;Praga Airport;República Checa;PRG;LKPR
+224;Bucarest Henri Coanda Airport;Rumania;OTP;LROP
+225;Cluj-Napoca Airport;Rumania;CLJ;LRCL
+226;Iasi Airport;Rumania;IAS;LRIA
+227;Timisoara Airport;Rumania;TSR;LRTR
+228;Koltsovo Airport;Rusia;SVX;USSS
+229;Krasnodar Airport;Rusia;KRR;URKK
+230;Moscú Domodédovo Airport;Rusia;DME;UUDD
+231;Moscú Sheremetyevo Airport;Rusia;SVO;UUEE
+232;Moscú Vnúkovo Airport;Rusia;VKO;UUWW
+233;Moscú Zhukovsky Airport;Rusia;ZIA;UUBW
+234;Novosibirsk Tolmachevo Airport;Rusia;OVB;UNNT
+235;San Petersburgo Púlkovo Airport;Rusia;LED;ULLI
+236;Sochi Airport;Rusia;AER;URSS
+237;Belgrado Nikola Tesla Airport;Serbia;BEG;LYBE
+238;Ni Airport;Serbia;INI;LYNI
+239;Estocolmo Arlanda Airport;Suecia;ARN;ESSA
+240;Estocolmo Bromma Airport;Suecia;BMA;ESSB
+241;Estocolmo Skavsta Airport;Suecia;NYO;ESKN
+242;Estocolmo Västerås Airport;Suecia;VST;ESOW
+243;Gotemburgo Landvetter Airport;Suecia;GOT;ESGG
+244;Malmö Airport;Suecia;MMX;ESMS
+245;Basilea Mulhouse Friburgo Airport;Suiza;BSL;LFSB
+246;Berna Airport;Suiza;BRN;LSZB
+247;Ginebra Airport;Suiza;GVA;LSGG
+248;Zúrich Airport;Suiza;ZRH;LSZH
+249;Adana Airport;Turquía;ADA;LTAF
+250;Ankara Esenboga Airport;Turquía;ESB;LTAC
+251;Antalya Airport;Turquía;AYT;LTAI
+252;Dalaman Airport;Turquía;DLM;LTBS
+253;Esmirna Adnan Menderes Airport;Turquía;ADB;LTBJ
+254;Estambul Airport;Turquía;IST;LTFM
+255;Estambul Sabiha Gökcen Airport;Turquía;SAW;LTFJ
+256;Milas-Bodrum Airport;Turquía;BJV;LTFE
+257;Trebisonda Airport;Turquía;TZX;LTCG
+258;Kharkiv Airport;Ucrania;HRK;UKHH
+259;Kiev Boryspil Airport;Ucrania;KBP;UKBB
+260;Kiev Zhuliany Airport;Ucrania;IEV;UKKK
+261;Lviv Airport;Ucrania;LWO;UKLL
+262;Odesa Airport;Ucrania;ODS;UKOO

@@ -1,0 +1,43 @@
+
+public class p4CristianChaparro {
+	
+//	Partiendo de la base de tres variables numéricas: v1, v2 y v3
+//	Realizar una expresión que de verdadero si:
+//	los tres valores son iguales
+//	v1 está entre 1 y 30, v2 entre 31 y 60 y v3 entre 61 y 100
+//	v1 y v3  son menores que 10, v2 es mayor que 20 
+//	v1 es mayor que 100 o menor que 10
+//	v1 es mayor que 100 y menor que 10
+//	v1 es par
+//	v1 y v2 son pares
+//	v1 es divisible por v2
+	
+	public static void main(String[] args) {
+		int v1, v2, v3;
+		boolean mostrar;
+	
+		v1 = 85;
+		v2 = -3;
+		v3 = 12;
+		
+//		v3 es el mayor valor de los 3
+		mostrar = (v3 > v2) && (v3 > v1);
+		System.out.println("- v3 es el mayor valor de los 3? " + mostrar);
+		
+//		v2 es mayor que v3 pero v2 es menor que v1
+		mostrar = (v2 > v3) && (v2 < v1);
+		System.out.println("- v2 es mayor que v3 y menor que v1? " + mostrar);
+		
+//		v1 no es igual a ninguno de los otros dos valores
+		mostrar = (v1 != v2) && (v1 != v3);
+		System.out.println("- v1 es distinto de v2 y v3?" + mostrar);
+		
+//		hay por lo menos dos valores iguales
+		mostrar = (v1 == v2) || (v2 == v3);
+		
+	}
+	
+
+	
+	
+}

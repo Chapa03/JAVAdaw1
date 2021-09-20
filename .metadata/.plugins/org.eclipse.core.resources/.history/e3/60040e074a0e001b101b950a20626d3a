@@ -1,0 +1,39 @@
+
+//DUDAS - hasta cuantos caracteres podemos pasar por consola a un string con un scanner???
+
+import java.util.Scanner;
+
+public class P6CristianChaparro {
+
+	public static void main(String[] args) {
+//		Realizar un programa de forma que obtenga primero el saludo con tu nombre y apellido,
+//		- Insertar una variable con el número de metros de una carrera
+//		- Insertar en una variable el número de vueltas a una pista de atletismo suponiendo que tiene 400m cada vuelta
+//		- Obtener el valor por pantalla del número de vueltas a la pista incluyendo en el mensaje:
+//		"Una carrera de x metros tiene x vueltas"
+		
+		String nombre, apellido1, apellido2;
+		int metros, vueltas, mCarrera;
+		
+		metros = 400;
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.print("Escribe aqui tu nombre: ");
+		nombre = sc.next();
+		System.out.println("Ahora tu 1er apellido: ");
+		apellido1 = sc.next();
+		System.out.println("Y por último, tu 2o apellido: ");
+		apellido2 = sc.next();
+		System.out.println("Un placer conocerte " + nombre + " " + apellido1 + " " + apellido2);
+		
+		System.out.print("De cuantas vueltas consta la siguiente carrera? ");
+		vueltas = sc.nextInt();
+		
+		mCarrera = metros * vueltas;
+		System.out.println("Los participantes tendrán que recorrer " + mCarrera + " metros en " + vueltas + " vueltas de 400m");
+		
+		
+	}
+
+}

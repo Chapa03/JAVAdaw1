@@ -1,0 +1,13 @@
+
+public class AsignacionCompactos {
+
+	public static void main(String[] args) {
+		int marcadorP = 0, marcadorC = 0;
+		marcadorP = marcadorP + 1;
+		marcadorC = marcadorC + 2;
+		
+		System.out.println("Propios: " + marcadorP + "\nContrarios: " + marcadorC);
+		
+	}
+
+}

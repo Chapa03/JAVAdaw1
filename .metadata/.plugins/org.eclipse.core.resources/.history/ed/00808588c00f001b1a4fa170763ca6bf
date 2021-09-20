@@ -1,0 +1,17 @@
+
+public class P8CChaparro {
+	public static void main(String[] args) {
+//		Crear un programa que, dado un número de horas, devuelva el número de semanas y días.
+		
+		int horas, semanas;
+		float dias;
+		
+		horas = 49;
+		dias = horas / 24;
+		semanas = (int)dias / 7;
+		
+		System.out.println(dias);
+		System.out.println(semanas);
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ic_info_black_18dp_1x.png&apos; to &apos;files&apos;&#x0D;&#x0A;- Original project: &apos;AgendaContactos&apos;&#x0D;&#x0A;- Destination element: &apos;files&apos;&#x0D;&#x0A;- Original element: &apos;ic_info_black_18dp_1x.png&apos;" description="Copy file" element1="src/agendacontactos/graphics/ic_info_black_18dp_1x.png" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1617892790016" target="/IGCalculadora/files" units="0" version="1.0"/>
+</session>

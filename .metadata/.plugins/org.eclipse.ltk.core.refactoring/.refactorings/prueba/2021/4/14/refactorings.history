@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;col&apos; in &apos;ficheroBotones.DeLocos.main(...)&apos; to &apos;i&apos;&#x0D;&#x0A;- Original project: &apos;prueba&apos;&#x0D;&#x0A;- Original element: &apos;ficheroBotones.DeLocos.main(String[]).col&apos;&#x0D;&#x0A;- Renamed element: &apos;col&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;col&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;ficheroBotones{DeLocos.java[DeLocos~main~\[QString;@col!98!108!102!104!I!0!false" name="i" references="true" stamp="1618078858651" version="1.0"/>
+</session>

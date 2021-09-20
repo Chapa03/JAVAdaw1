@@ -1,0 +1,32 @@
+import java.util.Scanner;
+
+public class P7CristianChaparro {
+
+	public static void main(String[] args) {
+//		Crear un programa que dado un número de horas y un número de minutos,
+//		calcule el número total de segundos. 
+//		Por ejemplo, 12 horas y 35 minutos serían 45300 segundos.
+		
+		int horas, minutos, segundos;
+		
+		Scanner sc = new Scanner(System.in);
+		
+		horas = 0;
+		minutos = 0;
+		
+		System.out.println("\t*Calculadora de segundos*");
+		System.out.print("\nIntroduce las horas: ");
+		horas = sc.nextInt();
+		System.out.print("Introduce los minutos: ");
+		minutos = sc.nextInt();
+		
+		String pluralH = (horas == 1 ? "" : "s");
+		String pluralM = (minutos == 1 ? "" : "s");
+		segundos = (horas * 60 * 60) + (minutos * 60);
+
+				
+		System.out.println(horas + " hora" + pluralH + " y " + minutos + " minuto" + pluralM + " equivalen a " + segundos + " segundos.");
+		
+	}
+
+}

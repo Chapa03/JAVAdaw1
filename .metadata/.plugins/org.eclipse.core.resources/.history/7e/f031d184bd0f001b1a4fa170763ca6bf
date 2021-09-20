@@ -1,0 +1,19 @@
+
+public class P7CristianChaparro {
+
+	public static void main(String[] args) {
+//		Crear un programa que dado un número de horas y un número de minutos,
+//		calcule el número total de segundos. 
+//		Por ejemplo, 12 horas y 35 minutos serían 45300 segundos.
+		
+		int horas, minutos, segundos;
+		
+		horas = 1;
+		minutos = 30;
+		segundos = (horas * 60 * 60) + (minutos * 60);
+		
+		System.out.println(segundos);
+		
+	}
+
+}

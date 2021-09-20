@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class P8CChaparro {
+	public static void main(String[] args) {
+//		Crear un programa que, dado un número de horas, devuelva el número de semanas y días.
+		
+		int horas, dias, semanas, horasRes;
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("\t*Calculadora de semanas y dias*\n");
+		System.out.print("Introduce las horas que quieres convertir: ");
+		horas = sc.nextInt();
+		
+		dias = horas / 24;
+		semanas = dias / 7;
+		horasRes = horas % 24;
+		
+		System.out.println("*** Introdujiste " + horas + " horas, que equivalen a... ***");
+		System.out.println(semanas + " semanas, " + dias + " dias y " + horasRes + " horas en total.");
+		
+	}
+
+}

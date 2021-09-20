@@ -1,0 +1,20 @@
+
+public class P11CChaparro {
+
+	public static void main(String[] args) {
+//		Cambiar programa dado para que el IVA se pueda almacenar en una variable
+		
+		int var1, var2;
+		var1 = 12;
+		var2 = 34;
+		int precio = var1 * var2;
+		double totalIva = precio  + (precio * 0.21);
+		System.out.println("Unidades: " + var1);
+		System.out.println("Precio unitario: " + var2);
+		System.out.println("Total sin IVA: " + precio);
+		System.out.println("TOTAL CON 21% de IVA: " + totalIva);
+		
+		
+	}
+
+}

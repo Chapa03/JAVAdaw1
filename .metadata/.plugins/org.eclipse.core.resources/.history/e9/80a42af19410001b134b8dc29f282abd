@@ -1,0 +1,25 @@
+
+public class P12CChaparro {
+
+	public static void main(String[] args) {
+//		Partiendo de tres variables tipo String s1, s2 y s3:
+//			Realizar una expresión que de verdadero si:
+//			s1 y s2 son iguales
+//			el segundo carácter de s1 es el mismo que el segundo de s2
+//			s1 es menor si ordenamos alfabéticamente hablando que s2
+
+		String s1, s2, s3;
+		boolean pruebas;
+		
+		s1 = "Perro";
+		s2 = "Vendaval";
+		s3 = "7398";
+		
+		pruebas = (s1 == s2);
+		System.out.println(pruebas);
+		
+		
+				
+	}
+
+}

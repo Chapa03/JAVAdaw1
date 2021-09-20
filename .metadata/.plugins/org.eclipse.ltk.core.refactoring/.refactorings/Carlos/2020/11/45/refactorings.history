@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;numero&apos; in &apos;Ejercicio2.main(...)&apos; to &apos;numeroDecimal&apos;&#x0A;- Original project: &apos;Carlos&apos;&#x0A;- Original element: &apos;Ejercicio2.main(String[]).numero&apos;&#x0A;- Renamed element: &apos;numero&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;numero&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Ejercicio2.java[Ejercicio2~main~\[QString;@numero!233!245!239!244!F!0!false" name="numeroDecimal" references="true" stamp="1604422743024" version="1.0"/>
+</session>

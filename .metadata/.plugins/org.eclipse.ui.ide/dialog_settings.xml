@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\eclipse-workspace\Ficheros"/>
+			<item value="E:\eclipse-workspace\Ficheros"/>
+			<item value="C:\Users\chapa\Desktop\BasicoConexionBD"/>
+			<item value="D:\eclipse-workspace\EjFicherosLeticia"/>
+			<item value="E:\eclipse-workspace\EjFicherosLeticia"/>
+			<item value="E:\eclipse-workspace\BasicoConexionBD"/>
+			<item value="D:\eclipse-workspace\BasicoConexionBD"/>
+			<item value="D:\eclipse-workspace\EjFicheros"/>
+			<item value="E:\eclipse-workspace\EjFicheros"/>
+			<item value="/media/chapa/chapaSSD/eclipse-workspace/ReservasVuelos"/>
+			<item value="E:\eclipse-workspace\0402ChaparroCristian"/>
+			<item value="/media/alumno/chapaSSD/eclipse-workspace/listeventos"/>
+			<item value="/media/alumno/4399F6B4454288D0/eclipse-workspace/AgendaContactos"/>
+			<item value="/media/chapa/4399F6B4454288D0/eclipse-workspace/AEPIAgendaContactos"/>
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="E:\eclipse-workspace\ReservasVuelos"/>
+			<item value="/media/alumno/chapaSSD/eclipse-workspace/SaraGullon"/>
+			<item value="/media/chapa/4399F6B4454288D0/eclipse-workspace"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode/&gt;&#x0A;&lt;/History&gt;"/>
+		<item key="ShowDerived" value="false"/>
+		<item key="FilterByLocation" value="false"/>
+		<item key="WorkingSet" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="548"/>
+			<item key="DIALOG_WIDTH" value="504"/>
+			<item key="DIALOG_X_ORIGIN" value="663"/>
+			<item key="DIALOG_Y_ORIGIN" value="194"/>
+			<item key="DIALOG_FONT_NAME" value="1|Open Sans|9.0|0|GTK|1|"/>
+		</section>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="661"/>
+		<item key="DIALOG_Y_ORIGIN" value="311"/>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="701"/>
+		<item key="DIALOG_Y_ORIGIN" value="132"/>
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_HEIGHT" value="587"/>
+		<item key="DIALOG_FONT_NAME" value="1|Open Sans|9.0|0|GTK|1|"/>
+	</section>
+</section>

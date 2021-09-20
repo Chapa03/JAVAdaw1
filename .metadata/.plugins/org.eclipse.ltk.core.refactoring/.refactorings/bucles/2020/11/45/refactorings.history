@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;num&apos; in &apos;bucles.EjercicioTablasFor.main(...)&apos; to &apos;j&apos;&#x0A;- Original project: &apos;bucles&apos;&#x0A;- Original element: &apos;bucles.EjercicioTablasFor.main(String[]).num&apos;&#x0A;- Renamed element: &apos;num&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;num&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;bucles{EjercicioTablasFor.java[EjercicioTablasFor~main~\[QString;@num!96!106!103!105!I!0!false" name="j" references="true" stamp="1604580623034" version="1.0"/>
+</session>

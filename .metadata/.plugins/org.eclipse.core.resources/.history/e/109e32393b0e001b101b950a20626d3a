@@ -1,0 +1,30 @@
+
+public class P5CristianChaparro {
+
+	public static void main(String[] args) {
+//			Partiendo de tres variables tipo carácter c1, c2 y c3:
+//			Realizar una expresión que de verdadero si:
+//			c1 y c2 son la misma letra pero una en minúscula y la otra en mayúscula
+//			c1, c2 y c3  son minúsculas
+//			c1, c2 y c3 son mayúsculas
+//			c2 va antes en el alfabeto que c1
+		
+		char c1, c2, c3;
+		boolean operacion;
+		
+		c1 = 'a';
+		c2 = 'b';
+		c3 = 'c';
+		
+//		c1 y c2 son el mismo carácter
+		operacion = (c1 == c2);
+		System.out.println(" - ");
+		
+		System.out.println("a + 20 - " + (c1 + 20));
+		
+//		c1 y c2 son el mismo carácter pero uno en mayúsculas y otro en minúsculas
+		
+
+	}
+
+}

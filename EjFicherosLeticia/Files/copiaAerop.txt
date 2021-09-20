@@ -1,0 +1,265 @@
+		LISTADO DE AEROPUERTOS CON CÃ“DIGO IANA
+
+CÃ“DIGO:		NOMBRE:	CIUDAD:
+TIA			Tirana Airport	Albania
+FMM			Algovia Airport Memmingen	Alemania
+BER			Berlín Brandeburgo Airport	Alemania
+BRE			Bremen Airport	Alemania
+CGN			Colonia Bonn Airport	Alemania
+DTM			Dortmund Airport	Alemania
+DRS			Dresde Airport	Alemania
+DUS			Dusseldorf Airport	Alemania
+FRA			Frankfurt Airport	Alemania
+HHN			Frankfurt-Hahn Airport	Alemania
+FDH			Friedrichshafen Airport	Alemania
+HAM			Hamburgo Airport	Alemania
+HAJ			Hanóver Airport	Alemania
+FKB			Karlsruhe Baden-Baden Airport	Alemania
+LEJ			Leipzig Halle Airport	Alemania
+MUC			Múnich Airport	Alemania
+FMO			Münster Osnabrück Airport	Alemania
+NUE			Núremberg Airport	Alemania
+PAD			Paderborn Lippstadt Airport	Alemania
+STR			Stuttgart Airport	Alemania
+NRN			Weeze Airport	Alemania
+EVN			Ereván Zvartnots Airport	Armenia
+GRZ			Graz Airport	Austria
+INN			Innsbruck Airport	Austria
+KLU			Klagenfurt Airport	Austria
+LNZ			Linz Airport	Austria
+SZG			Salzburgo Airport	Austria
+VIE			Viena Airport	Austria
+GYD			Bakú Airport	Azerbaiyán
+ANR			Amberes Airport	Bélgica
+BRU			Bruselas Airport	Bélgica
+CRL			Charleroi Airport	Bélgica
+LGG			Lieja Airport	Bélgica
+OST			Ostende Brujas Airport	Bélgica
+MSQ			Minsk Airport	Bielorrusia
+SJJ			Sarajevo Airport	Bosnia y Herzegovina
+TZL			Tuzla Airport	Bosnia y Herzegovina
+BOJ			Burgas Airport	Bulgaria
+SOF			Sofía Airport	Bulgaria
+VAR			Varna Airport	Bulgaria
+LCA			Lárnaca Airport	Chipre
+PFO			Pafos Airport	Chipre
+DBV			Dubrovnik Airport	Croacia
+PUY			Pula Airport	Croacia
+SPU			Split Airport	Croacia
+ZAD			Zadar Airport	Croacia
+ZAG			Zagreb Airport	Croacia
+AAL			Aalborg Airport	Dinamarca
+AAR			Aarhus Airport	Dinamarca
+BLL			Billund Airport	Dinamarca
+CPH			Copenhague Airport	Dinamarca
+FAE			Vágar Airport	Dinamarca
+BTS			Bratislava Airport	Eslovaquia
+KSC			Koice Airport	Eslovaquia
+LJU			Liubliana Airport	Eslovenia
+ALC			Alicante Airport	España
+LEI			Almería Airport	España
+OVD			Asturias Airport	España
+BCN			Barcelona Airport	España
+BIO			Bilbao Airport	España
+FUE			Fuerteventura Airport	España
+GRO			Girona Airport	España
+LPA			Gran Canaria Airport	España
+GRX			Granada-Jaén Airport	España
+IBZ			Ibiza Airport	España
+XRY			Jerez Airport	España
+SPC			La Palma Airport	España
+ACE			Lanzarote Airport	España
+MAD			Madrid Barajas Airport	España
+AGP			Málaga Airport	España
+MAH			Menorca Airport	España
+PMI			Palma de Mallorca Airport	España
+RMU			Región de Murcia Airport	España
+REU			Reus Airport	España
+SDR			Santander Airport	España
+SCQ			Santiago de Compostela Airport	España
+SVQ			Sevilla Airport	España
+TFN			Tenerife Norte Airport	España
+TFS			Tenerife Sur Airport	España
+VLC			Valencia Airport	España
+ZAZ			Zaragoza Airport	España
+TLL			Tallin Airport	Estonia
+HEL			Helsinki Airport	Finlandia
+OUL			Oulu Airport	Finlandia
+RVN			Rovaniemi Airport	Finlandia
+TMP			Tampere Airport	Finlandia
+TKU			Turku Airport	Finlandia
+VAA			Vaasa Airport	Finlandia
+AJA			Ajaccio Airport	Francia
+BIA			Bastia Airport	Francia
+EGC			Bergerac Airport	Francia
+BIQ			Biarritz Airport	Francia
+BES			Brest Bretaña Airport	Francia
+BOD			Burdeos Airport	Francia
+SXB			Estrasburgo Airport	Francia
+FSC			Figari Sud Corse Airport	Francia
+LIL			Lille Airport	Francia
+LYS			Lyon-Saint Exupéry Airport	Francia
+MRS			Marsella Airport	Francia
+MPL			Montpellier Airport	Francia
+NTE			Nantes Airport	Francia
+NCE			Niza Airport	Francia
+BVA			París Beauvais Airport	Francia
+CDG			París Charles de Gaulle Airport	Francia
+ORY			París Orly Airport	Francia
+RNS			Rennes Bretaña Airport	Francia
+RUN			Réunion Roland Garros Airport	Francia
+TLN			Toulon-Hyères Airport	Francia
+TLS			Toulouse Blagnac Airport	Francia
+KUT			Kutaisi Airport	Georgia
+TBS			Tiflis Airport	Georgia
+ATH			Atenas Airport	Grecia
+CFU			Corfú Airport	Grecia
+KGS			Cos Airport	Grecia
+HER			Heraklion Airport	Grecia
+CHQ			La Canea Airport	Grecia
+JMK			Mykonos Airport	Grecia
+RHO			Rodas Airport	Grecia
+JTR			Santorini Airport	Grecia
+SKG			Tesalónica Airport	Grecia
+ZTH			Zante Airport	Grecia
+BUD			Budapest Airport	Hungría
+DEB			Debrecen Airport	Hungría
+ORK			Cork Airport	Irlanda
+DUB			Dublín Airport	Irlanda
+NOC			Irlanda Oeste Airport Knock	Irlanda
+KIR			Kerry Airport	Irlanda
+SNN			Shannon Airport	Irlanda
+KEF			Keflavík Airport	Islandia
+AHO			Alguer Airport	Italia
+AOI			Ancona Airport	Italia
+BRI			Bari Airport	Italia
+BGY			Bérgamo Airport	Italia
+BLQ			Bolonia Airport	Italia
+BDS			Brindisi Airport	Italia
+CAG			Cagliari Airport	Italia
+CTA			Catania Fontanarossa Airport	Italia
+CIY			Comiso Airport	Italia
+FLR			Florencia Airport	Italia
+GOA			Génova Airport	Italia
+SUF			Lamezia Terme Airport	Italia
+LIN			Milán Linate Airport	Italia
+MXP			Milán Malpensa Airport	Italia
+NAP			Nápoles Airport	Italia
+OLB			Olbia Costa Smeralda Airport	Italia
+PMO			Palermo Airport	Italia
+PEG			Perugia Airport	Italia
+PSR			Pescara Airport	Italia
+PSA			Pisa Airport	Italia
+CIA			Roma Ciampino Airport	Italia
+FCO			Roma Fiumicino Airport	Italia
+TPS			Trapani Airport	Italia
+TSF			Treviso Airport	Italia
+TRN			Turín Airport	Italia
+VCE			Venecia Airport	Italia
+VRN			Verona Airport	Italia
+ALA			Almatý Airport	Kazajistán
+NQZ			Nursultan Nazarbayev Airport	Kazajistán
+PRN			Pristina Airport	Kosovo
+RIX			Riga Airport	Letonia
+KUN			Kaunas Airport	Lituania
+VNO			Vilnius Airport	Lituania
+LUX			Luxemburgo Airport	Luxemburgo
+SKP			Skopje Airport	Macedonia del Norte
+MLA			Malta Airport	Malta
+KIV			Chisináu Airport	Moldavia
+TGD			Podgorica Airport	Montenegro
+TIV			Tivat Airport	Montenegro
+AES			Ålesund Airport	Noruega
+BGO			Bergen Airport	Noruega
+BOO			Bodø Airport	Noruega
+HAU			Haugesund Airport	Noruega
+KRS			Kristiansand Airport	Noruega
+OSL			Oslo Airport	Noruega
+TRF			Sandefjord Airport Torp	Noruega
+SVG			Stavanger Airport	Noruega
+TOS			Tromsø Airport	Noruega
+TRD			Trondheim Airport	Noruega
+AMS			Ámsterdam Airport Schiphol	Países Bajos
+EIN			Eindhoven Airport	Países Bajos
+GRQ			Groninga Airport Eelde	Países Bajos
+MST			Maastricht Aachen Airport	Países Bajos
+RTM			Róterdam La Haya Airport	Países Bajos
+WRO			Breslavia Airport	Polonia
+KRK			Cracovia Airport	Polonia
+GDN			Gdansk Airport	Polonia
+KTW			Katowice Airport	Polonia
+POZ			Poznan Airport	Polonia
+SZZ			Szczecin-Goleniów Airport	Polonia
+WAW			Varsovia Airport	Polonia
+WMI			Varsovia Modlin Airport	Polonia
+FAO			Faro Airport	Portugal
+LIS			Lisboa Airport	Portugal
+FNC			Madeira Airport	Portugal
+OPO			Oporto Airport	Portugal
+PDL			Ponta Delgada Airport	Portugal
+ABZ			Aberdeen Airport	Reino Unido
+BHD			Belfast City Airport	Reino Unido
+BFS			Belfast International Airport	Reino Unido
+BHX			Birmingham Airport	Reino Unido
+BRS			Bristol Airport	Reino Unido
+CWL			Cardiff Airport	Reino Unido
+DSA			Doncaster Sheffield Airport	Reino Unido
+EMA			East Midlands Airport	Reino Unido
+EDI			Edimburgo Airport	Reino Unido
+EXT			Exeter Airport	Reino Unido
+GLA			Glasgow Airport	Reino Unido
+PIK			Glasgow Prestwick Airport	Reino Unido
+HUY			Humberside Airport	Reino Unido
+JER			Jersey Airport	Reino Unido
+LBA			Leeds Bradford Airport	Reino Unido
+LPL			Liverpool Airport	Reino Unido
+LCY			Londres City Airport	Reino Unido
+LGW			Londres Gatwick Airport	Reino Unido
+LHR			Londres Heathrow Airport	Reino Unido
+LTN			Londres Luton Airport	Reino Unido
+SEN			Londres Southend Airport	Reino Unido
+STN			Londres Stansted Airport	Reino Unido
+MAN			Mánchester Airport	Reino Unido
+NCL			Newcastle Airport	Reino Unido
+SOU			Southampton Airport	Reino Unido
+BRQ			Brno Airport	República Checa
+PRG			Praga Airport	República Checa
+OTP			Bucarest Henri Coanda Airport	Rumania
+CLJ			Cluj-Napoca Airport	Rumania
+IAS			Iasi Airport	Rumania
+TSR			Timisoara Airport	Rumania
+SVX			Koltsovo Airport	Rusia
+KRR			Krasnodar Airport	Rusia
+DME			Moscú Domodédovo Airport	Rusia
+SVO			Moscú Sheremetyevo Airport	Rusia
+VKO			Moscú Vnúkovo Airport	Rusia
+ZIA			Moscú Zhukovsky Airport	Rusia
+OVB			Novosibirsk Tolmachevo Airport	Rusia
+LED			San Petersburgo Púlkovo Airport	Rusia
+AER			Sochi Airport	Rusia
+BEG			Belgrado Nikola Tesla Airport	Serbia
+INI			Ni Airport	Serbia
+ARN			Estocolmo Arlanda Airport	Suecia
+BMA			Estocolmo Bromma Airport	Suecia
+NYO			Estocolmo Skavsta Airport	Suecia
+VST			Estocolmo Västerås Airport	Suecia
+GOT			Gotemburgo Landvetter Airport	Suecia
+MMX			Malmö Airport	Suecia
+BSL			Basilea Mulhouse Friburgo Airport	Suiza
+BRN			Berna Airport	Suiza
+GVA			Ginebra Airport	Suiza
+ZRH			Zúrich Airport	Suiza
+ADA			Adana Airport	Turquía
+ESB			Ankara Esenboga Airport	Turquía
+AYT			Antalya Airport	Turquía
+DLM			Dalaman Airport	Turquía
+ADB			Esmirna Adnan Menderes Airport	Turquía
+IST			Estambul Airport	Turquía
+SAW			Estambul Sabiha Gökcen Airport	Turquía
+BJV			Milas-Bodrum Airport	Turquía
+TZX			Trebisonda Airport	Turquía
+HRK			Kharkiv Airport	Ucrania
+KBP			Kiev Boryspil Airport	Ucrania
+IEV			Kiev Zhuliany Airport	Ucrania
+LWO			Lviv Airport	Ucrania
+ODS			Odesa Airport	Ucrania

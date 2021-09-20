@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ejerciciosSueltos.IfSwitch&apos; to &apos;IfSwitch1_2&apos;&#x0A;- Original project: &apos;RepasoNavidad&apos;&#x0A;- Original element: &apos;ejerciciosSueltos.IfSwitch&apos;&#x0A;- Renamed element: &apos;ejerciciosSueltos.IfSwitch1_2&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;IfSwitch&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ejerciciosSueltos{IfSwitch.java[IfSwitch" matchStrategy="1" name="IfSwitch1_2" qualified="false" references="true" similarDeclarations="false" stamp="1611231666013" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;btnNewButton&apos; in &apos;Principal.initialize()&apos; to &apos;btnBotonSaludo&apos;&#x0D;&#x0A;- Original project: &apos;IGSaludo&apos;&#x0D;&#x0A;- Original element: &apos;Principal.initialize().btnNewButton&apos;&#x0D;&#x0A;- Renamed element: &apos;btnNewButton&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;btnNewButton&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Principal.java[Principal~initialize@btnNewButton!1717!1765!1725!1736!QJButton;!0!false" name="btnBotonSaludo" references="true" stamp="1617883118196" version="1.0"/>
+</session>
